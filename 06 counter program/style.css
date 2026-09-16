@@ -1,0 +1,35 @@
+#counterApp{
+    max-width: 30em;
+    margin: 0 auto;
+    padding: 30px 0px 30px 0px;
+    border: 3px solid black;
+    border-radius: 20px;
+}
+
+#countLabel{
+    display: block;
+    text-align: center;
+    font-size: 10em;
+    font-family: Helvetica;
+}
+
+#btnContainer{
+    text-align: center;
+}
+
+.buttons{
+    padding: 10px 20px;
+    font-size: 1.5em;
+    color: white;
+    background-color:rgb(13, 175, 121);
+    border-radius: 10px;
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+
+.buttons:hover{
+    background-color:rgb(0, 99, 99);
+}
