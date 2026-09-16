@@ -1,5 +1,3 @@
-Math.PI
-
 document.getElementById("p1").textContent = `Math.PI = ${Math.PI}`;
 document.getElementById("p2").textContent = `Math.E = ${Math.E}`;
 
