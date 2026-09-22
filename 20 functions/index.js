@@ -1,10 +1,4 @@
 
-
-const guessInput = document.getElementById("guessInput");
-const submitBtn = document.getElementById("submitBtn");
-const p1 = document.getElementById("p1");
-
-
 function happyBirthday(username, age){
     console.log("Happy birthday to you!");
     console.log("Happy birthday to you!");
